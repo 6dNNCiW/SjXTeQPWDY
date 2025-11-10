@@ -14,7 +14,7 @@
         <hibernate.version>5.0.5.Final</hibernate.version>
         <spring.security>4.1.1.RELEASE</spring.security>
         <spring.social>1.1.4.RELEASE</spring.social>
-        <spring.data>1.10.2.RELEASE</spring.data>
+        <spring.data>3.5.5</spring.data>
         <jackson.core>2.5.4</jackson.core>
         <thymeleaf>3.0.1.RELEASE</thymeleaf>
     </properties>
